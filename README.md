@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/cocoapods/l/TypedPreferences.svg?style=flat)](https://cocoapods.org/pods/TypedPreferences)
 [![Platform](https://img.shields.io/cocoapods/p/TypedPreferences.svg?style=flat)](https://cocoapods.org/pods/TypedPreferences)
 
+This library is superseded by [Property Wrappers](https://github.com/apple/swift-evolution/blob/master/proposals/0258-property-wrappers.md) available in Swift 5.1.
+
 ## Description
 
 UserDefaults interface is not strictly-typed.
